@@ -14,7 +14,7 @@ class MyApp extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return MaterialApp(
-      title: 'PDF Generator',
+      title: 'PDF file',
       theme: ThemeData(
         primarySwatch: Colors.pink,
       ),
