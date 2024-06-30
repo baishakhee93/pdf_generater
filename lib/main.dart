@@ -28,7 +28,7 @@ class PdfPreviewScreen extends StatelessWidget {
   Widget build(BuildContext context) {
     return Scaffold(
       appBar: AppBar(
-        title: Text('PDF Preview', style: TextStyle(color: Colors.white, fontWeight: FontWeight.bold),),
+        title: Text('PDF Preview File', style: TextStyle(color: Colors.white, fontWeight: FontWeight.bold),),
         backgroundColor: Colors.pinkAccent,
         iconTheme: IconThemeData(color: Colors.white),
       ),
